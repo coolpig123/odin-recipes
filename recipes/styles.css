@@ -1,0 +1,24 @@
+h1,h2,li,p,a {
+    text-align: center;
+    font-family: Tahoma;
+    font-weight:800;
+}
+h1 {
+    font-size: 60px;
+    color: black;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ul,ol {
+    display: table;
+    margin: auto;
+}
+a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
