@@ -5,10 +5,20 @@ h1,li {
 ul{
     display: table;
     margin: auto;
+    padding-inline: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border: 10px solid black;
 }
 h1{
     font-size: 80px;
 }
 li{
     font-size: 40px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
 }

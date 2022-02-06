@@ -13,6 +13,10 @@ img {
     margin-right: auto;
 }
 ul,ol {
+    padding-inline: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 5px solid black;
     display: table;
     margin: auto;
 }
